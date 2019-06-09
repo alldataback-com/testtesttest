@@ -23,7 +23,7 @@ IP-CIDR6,2001:67c:4e8::/48
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google.ru
 # PROXY
-// Client
+# Client
 PROCESS-NAME,Backup and Sync
 PROCESS-NAME,Day One
 PROCESS-NAME,Dropbox
@@ -35,7 +35,7 @@ PROCESS-NAME,Tweetbot
 PROCESS-NAME,Twitter
 PROCESS-NAME,Twitterrific
 PROCESS-NAME,viu
-// UA
+# UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
 USER-AGENT,AwemeI18n*
 USER-AGENT,Coinbase*
@@ -44,21 +44,21 @@ USER-AGENT,Resilio Sync*
 USER-AGENT,SoundCloud*
 USER-AGENT,viu*
 USER-AGENT,WeMusic*
-// BBC
+# BBC
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,co.uk
 DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
-// CHOCO TV
+# CHOCO TV
 USER-AGENT,TwDramas
 DOMAIN-SUFFIX,chocotv.com.tw
-// Epicgames
+# Epicgames
 DOMAIN-KEYWORD,epicgames
 DOMAIN-SUFFIX,helpshift.com
-// Hulu
+# Hulu
 DOMAIN-SUFFIX,hulu.com
-// Line
+# Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line.naver.jp
@@ -66,12 +66,12 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
-// MytvSUPER
+# MytvSUPER
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-// Microsoft
+# Microsoft
 USER-AGENT,OneDrive*
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,hotmail.com
@@ -81,27 +81,27 @@ DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,outlook.com
-// Netflix
+# Netflix
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
-// Spark
+# Spark
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,smartmailcloud.com
-// Steam
+# Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
-// WeMusic
+# WeMusic
 DOMAIN-KEYWORD,joox
-// Top blocked sites
+# Top blocked sites
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,4everProxy.com
 DOMAIN-SUFFIX,4shared.com
@@ -679,7 +679,7 @@ DOMAIN-SUFFIX,zalmos.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zeutch.com
 DOMAIN-SUFFIX,zynamics.com
-// Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
+# Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
@@ -740,7 +740,7 @@ DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webrtc.org
-// Amazon
+# Amazon
 IP-CIDR,13.32.0.0/16
 IP-CIDR,13.33.0.0/16
 IP-CIDR,13.35.0.0/17
@@ -757,7 +757,7 @@ IP-CIDR,54.156.0.0/14
 IP-CIDR,54.226.0.0/15
 IP-CIDR,54.230.156.0/22
 IP-CIDR,54.93.0.0/16
-// Facebook
+# Facebook
 IP-CIDR,103.4.96.0/22
 IP-CIDR,129.134.0.0/17
 IP-CIDR,157.240.0.0/17
@@ -773,17 +773,17 @@ IP-CIDR,66.220.144.0/20
 IP-CIDR,69.171.224.0/19
 IP-CIDR,69.63.176.0/20
 IP-CIDR,74.119.76.0/22
-// Google
+# Google
 IP-CIDR,173.194.0.0/16
 IP-CIDR,74.125.0.0/16
-// Kakao Talk
+# Kakao Talk
 IP-CIDR,1.201.0.0/24
 IP-CIDR,103.246.56.0/22
 IP-CIDR,103.27.148.0/22
 IP-CIDR,110.76.140.0/22
 IP-CIDR,113.61.104.0/22
 IP-CIDR,27.0.236.0/22
-// LINE
+# LINE
 IP-CIDR,103.2.28.0/22
 IP-CIDR,119.235.224.0/21
 IP-CIDR,119.235.232.0/23
@@ -797,17 +797,17 @@ IP-CIDR,203.104.103.0/24
 IP-CIDR,203.104.128.0/20
 IP-CIDR,203.174.66.64/26
 IP-CIDR,203.174.77.0/24
-// Potato Chat
+# Potato Chat
 IP-CIDR,13.251.24.157/24
 IP-CIDR,13.251.41.203/24
 IP-CIDR,17.252.156.147/24
 IP-CIDR,17.252.157.26/24
-// SoftLayer
+# SoftLayer
 IP-CIDR,74.86.0.0/16
 IP-CIDR,75.126.0.0/16
 IP-CIDR,174.37.0.0/16
 IP-CIDR,208.43.0.0/16
-// Telegram
+# Telegram
 IP-CIDR,109.239.140.0/24
 IP-CIDR,149.154.160.0/20
 IP-CIDR,149.154.164.0/22
