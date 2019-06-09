@@ -6,7 +6,9 @@ DOMAIN-SUFFIX,3gimg.qq.com
 DOMAIN-SUFFIX,mall.vip.qq.com
 DOMAIN-SUFFIX,uapi.vip.qq.com
 DOMAIN-SUFFIX,bsrv.qq.com
-DOMAIN-SUFFTX,p.qpic.cn
+DOMAIN-SUFFIX,p.qpic.cn
+DOMAIN-SUFFIX,proxy.vac.qq.com
+DOMAIN-SUFFIX,report.vip.qq.com
 #good
 DOMAIN-SUFFIX,as.weixin.qq.com
 DOMAIN-SUFFIX,szminorshort.weixin.qq.com
