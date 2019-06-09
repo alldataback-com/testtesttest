@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,m.blog.naver.com
 DOMAIN-SUFFIX,apis.naver.com
 DOMAIN-SUFFIX,cc.naver.com
 DOMAIN-SUFFIX,lcs.naver.com
+DOMAIN-SUFFIX,www.youtube.com
 DOMAIN-SUFFIX,t.me
 IP-CIDR6,2001:67c:4e8::/48
 DOMAIN-SUFFIX,google.com
@@ -36,7 +37,6 @@ PROCESS-NAME,Tweetbot
 PROCESS-NAME,Twitter
 PROCESS-NAME,Twitterrific
 PROCESS-NAME,viu
-PROCESS-NAME,Downie 3
 # UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
 USER-AGENT,AwemeI18n*
