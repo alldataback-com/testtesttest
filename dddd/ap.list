@@ -45,3 +45,5 @@ DOMAIN-SUFFIX,ibook.info
 DOMAIN-SUFFIX,aiport.us
 DOMAIN-SUFFIX,apple.news
 DOMAIN,apple.comscoreresearch.com
+#去苹果店现场预约时遇到的 503 问题
+DOMAIN,reserve-prime.apple.com
