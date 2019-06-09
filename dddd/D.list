@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,config.inmobi.cn
 DOMAIN-SUFFIX,sdktm.w.inmobi.cn
-
+#去苹果店现场预约时遇到的 503 问题
+DOMAIN,reserve-prime.apple.com
 # DIRECT
 // Client
 PROCESS-NAME,Paws for Trello
