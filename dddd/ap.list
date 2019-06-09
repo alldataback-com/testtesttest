@@ -19,6 +19,8 @@ USER-AGENT,fmflocatord*
 USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,Maps*
+USER-AGENT,AppleNews*
+USER-AGENT,AppleNews*
 DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
@@ -32,3 +34,14 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,lookup-api.apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-KEYWORD,fmfmobile
+DOMAIN-SUFFIX,apple.cnc.ccgslb.com.cn
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,thinkdifferent.us
+DOMAIN-SUFFIX,itools.info
+DOMAIN-SUFFIX,ibook.info
+DOMAIN-SUFFIX,aiport.us
+DOMAIN-SUFFIX,apple.news
+DOMAIN,apple.comscoreresearch.com
