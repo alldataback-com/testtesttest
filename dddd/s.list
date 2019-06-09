@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,m.blog.naver.com
 DOMAIN-SUFFIX,apis.naver.com
 DOMAIN-SUFFIX,cc.naver.com
 DOMAIN-SUFFIX,lcs.naver.com
+DOMAIN-SUFFIX,t.me
 
 # PROXY
 // Client
