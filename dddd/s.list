@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,cc.naver.com
 DOMAIN-SUFFIX,lcs.naver.com
 DOMAIN-SUFFIX,t.me
 IP-CIDR6,2001:67c:4e8::/48
+DOMAIN-SUFFIX,google.com
 
 # PROXY
 // Client
