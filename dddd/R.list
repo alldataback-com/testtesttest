@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,a09.881903.com
 DOMAIN-SUFFIX,qzonestyle.gtimg.cn
 DOMAIN-SUFFIX,appsupport.qq.com
 DOMAIN-SUFFIX,task.qq.com
-DOMAIN-SUFFIX,ptlogin2.qq.com
+#DOMAIN-SUFFIX,ptlogin2.qq.com
 DOMAIN-SUFFIX,mazu.m.qq.com
 // iqiyi & pps
 DOMAIN-SUFFIX,rabbit.meitustat.com
@@ -5479,7 +5479,7 @@ DOMAIN-SUFFIX,moka.inte.sogoucdn.com
 DOMAIN-SUFFIX,mon.xtgreat.com
 DOMAIN-SUFFIX,monero.how
 DOMAIN-SUFFIX,money.qz828.com
-#DOMAIN-SUFFIX,monitor.uu.qq.com
+DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,moodoocrv.com.cn
 DOMAIN-SUFFIX,moogos.com
 DOMAIN-SUFFIX,mookie1.com
@@ -7078,7 +7078,7 @@ DOMAIN-SUFFIX,tag.yoc-adserver.com
 DOMAIN-SUFFIX,tags.growingio.com
 DOMAIN-SUFFIX,tags2.adshell.net
 DOMAIN-SUFFIX,tags4.revdepo.com
-#DOMAIN-SUFFIX,tajs.qq.com
+DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tajxgs.com
 DOMAIN-SUFFIX,talk.nz.igexin.com
 DOMAIN-SUFFIX,talkingdata.com
