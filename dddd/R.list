@@ -7078,7 +7078,7 @@ DOMAIN-SUFFIX,tag.yoc-adserver.com
 DOMAIN-SUFFIX,tags.growingio.com
 DOMAIN-SUFFIX,tags2.adshell.net
 DOMAIN-SUFFIX,tags4.revdepo.com
-DOMAIN-SUFFIX,tajs.qq.com
+#DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tajxgs.com
 DOMAIN-SUFFIX,talk.nz.igexin.com
 DOMAIN-SUFFIX,talkingdata.com
