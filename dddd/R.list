@@ -5479,7 +5479,7 @@ DOMAIN-SUFFIX,moka.inte.sogoucdn.com
 DOMAIN-SUFFIX,mon.xtgreat.com
 DOMAIN-SUFFIX,monero.how
 DOMAIN-SUFFIX,money.qz828.com
-DOMAIN-SUFFIX,monitor.uu.qq.com
+#DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,moodoocrv.com.cn
 DOMAIN-SUFFIX,moogos.com
 DOMAIN-SUFFIX,mookie1.com
