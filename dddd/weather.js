@@ -25,6 +25,6 @@ $httpClient.get(weaapi, function(error, response, data){
 [Script]
 
 # 快速测试每分钟报天气
-cron "*/1 * * *" script-path=https://github.com/alldataback-com/testtesttest/raw/master/dddd/weather.js
+cron "*/1 * * * *" script-path=https://github.com/alldataback-com/testtesttest/raw/master/dddd/weather.js
 
 *****************************************************************/
