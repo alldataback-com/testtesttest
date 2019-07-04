@@ -1,16 +1,5 @@
 #update
-DOMAIN-SUFFIX,atrace.chelaile.net.cn
-DOMAIN-SUFFIX,pic1.chelaile.net.cn
-DOMAIN,mqtt.zhihu.com
-DOMAIN-SUFFIX,xdrig.com
-URL-REGEX,https://api.zhihu.com/(fringe|zst|real_time|ad-style-service|ab|banners|topstory/hot-lists|market/popover|mqtt)
-URL-REGEX,https://api.zhihu.com.*launch
-URL-REGEX,https://api.zhihu.com/search/(top|tabs|preset)
-URL-REGEX,https://api.zhihu.com/answers/.*/comments/featured-comment-ad
-USER-AGENT,AVOS*
-AND,((USER-AGENT,ZhihuHybrid*), (NOT,((DOMAIN,www.zhihu.com))), (NOT,((DOMAIN,static.zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
-AND,((USER-AGENT,osee2*), (NOT,((DOMAIN,api.zhihu.com))), (NOT,((DOMAIN,lens.zhihu.com))), (NOT,((DOMAIN,static.zhihu.com))), (NOT,((DOMAIN,www.zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
-DOMAIN-SUFFIX,zhstatic.zhihu.com
+
 DOMAIN-SUFFIX,h5.qianhao.qq.com
 DOMAIN-SUFFIX,i.gtimg.cn
 DOMAIN-SUFFIX,pinduoduo.com
