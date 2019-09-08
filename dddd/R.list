@@ -1,4 +1,5 @@
 #update
+DOMAIN-SUFFIX,ssl.ptlogin2.qq.com
 DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,pic1.chelaile.net.cn
 DOMAIN,mqtt.zhihu.com
@@ -13912,4 +13913,4 @@ DOMAIN-SUFFIX,zzqqhb.com,Reject
 DOMAIN-SUFFIX,zzrcz.com,Reject
 DOMAIN-SUFFIX,zzsdjq.com,Reject
 DOMAIN-SUFFIX,zzsno1.com,Reject
-DOMAIN-SUFFIX,zzyonghao.com,Reject
+DOMAIN-SUFFIX,zzyonghao.com,Rejec
