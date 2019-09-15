@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,as.weixin.qq.com
 DOMAIN-SUFFIX,szminorshort.weixin.qq.com
 DOMAIN-SUFFIX,martellpartychannel.pernod-ricard-china.com
 DOMAIN-SUFFIX,a09.881903.com
-DOMAIN-SUFFIX,qzonestyle.gtimg.cn
+#DOMAIN-SUFFIX,qzonestyle.gtimg.cn
 DOMAIN-SUFFIX,appsupport.qq.com
 DOMAIN-SUFFIX,task.qq.com
 DOMAIN-SUFFIX,mazu.m.qq.com
