@@ -1,4 +1,9 @@
 #update
+URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/CR60_V33_IOS_20191017\.mp4$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/CR60_V33_IOS_20191017.mp4
+URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/KnightFrank_IOS_20191021\.m4a$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/KnightFrank_IOS_20191021.m4a
+URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/CR60_V34_IOS_20191025\.mp4$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/CR60_V34_IOS_20191025.mp4
+DOMAIN-SUFFIX,flash-extractor.com,🚀 Direct // Added for webpage: http://www.flash-extractor.com/
+DOMAIN-SUFFIX,redirect.viglink.com,🍃 Proxy // Added for webpage: http://redirect.viglink.com/?key=00338ebde414fcd446b4b4216eed4f7b&u=https%3A%2F%2Fwww.tapatalk.com%2Fstart-here.php
 #DOMAIN-SUFFIX,ssl.ptlogin2.qq.com
 DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,pic1.chelaile.net.cn
