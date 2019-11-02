@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,redirect.viglink.com,🍃 Proxy // Added for webpage: http://redir
 #DOMAIN-SUFFIX,ssl.ptlogin2.qq.com
 DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,pic1.chelaile.net.cn
-DOMAIN,mqtt.zhihu.com
+#DOMAIN,mqtt.zhihu.com
 DOMAIN-SUFFIX,xdrig.com
 URL-REGEX,https://api.zhihu.com/(fringe|zst|real_time|ad-style-service|ab|banners|topstory/hot-lists|market/popover|mqtt)
 URL-REGEX,https://api.zhihu.com.*launch
