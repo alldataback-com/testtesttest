@@ -214,6 +214,12 @@ DOMAIN-SUFFIX,ehg-youtube.hitbox.com
 DOMAIN-SUFFIX,m-78.jp
 DOMAIN-SUFFIX,nichibenren.or.jp
 DOMAIN-SUFFIX,nicorette.co.kr
+^.+?googlevideo.com/.+?---.+?index - reject
+^https?://m.youtube.com/_get_ads - reject
+^https?://pagead2.googlesyndication.com/pagead/ - reject
+^https?://r\d---sn-(\w+|\w+-\w+).googlevideo.com - reject
+^https?://s0.2mdn.net/ads/ - reject
+^https?://stats.tubemogul.com/stats/ - reject
 // Sohu
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
