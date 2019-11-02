@@ -1,4 +1,7 @@
 #update
+DOMAIN-SUFFIX,cdn.baiduyun.wiki
+DOMAIN-SUFFIX,cdn.80note.com
+DOMAIN-SUFFIX,issuecdn.baidupcs.com
 URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/CR60_V33_IOS_20191017\.mp4$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/CR60_V33_IOS_20191017.mp4
 URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/KnightFrank_IOS_20191021\.m4a$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/KnightFrank_IOS_20191021.m4a
 URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/CR60_V34_IOS_20191025\.mp4$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/CR60_V34_IOS_20191025.mp4
