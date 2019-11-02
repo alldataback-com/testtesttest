@@ -1,4 +1,7 @@
 #update
+#zhihu
+IP-CIDR,118.89.204.190/32,DIRECT
+//
 DOMAIN-SUFFIX,i.mail.qq.com
 DOMAIN-SUFFIX,config.inmobi.cn
 DOMAIN-SUFFIX,sdktm.w.inmobi.cn
