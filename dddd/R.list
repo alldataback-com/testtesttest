@@ -1,5 +1,5 @@
 #update
-URL-REGEX,https?://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|me|.*launch|.*featured-comment-ad|search/(top|tabs|preset))
+#URL-REGEX,https?://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|me|.*launch|.*featured-comment-ad|search/(top|tabs|preset))
 DOMAIN-SUFFIX,cdn.baiduyun.wiki
 DOMAIN-SUFFIX,cdn.80note.com
 DOMAIN-SUFFIX,issuecdn.baidupcs.com
