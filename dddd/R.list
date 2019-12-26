@@ -1,5 +1,5 @@
 #update
-#URL-REGEX,https?://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|me|.*launch|.*featured-comment-ad|search/(top|tabs|preset))
+URL-REGEX,https?://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|me|.*launch|.*featured-comment-ad|search/(top|tabs|preset))
 DOMAIN-SUFFIX,cdn.baiduyun.wiki
 DOMAIN-SUFFIX,cdn.80note.com
 DOMAIN-SUFFIX,issuecdn.baidupcs.com
@@ -18,7 +18,6 @@ URL-REGEX,https://api.zhihu.com/search/(top|tabs|preset)
 URL-REGEX,https://api.zhihu.com/answers/.*/comments/featured-comment-ad
 USER-AGENT,AVOS*
 AND,((USER-AGENT,ZhihuHybrid*), (NOT,((DOMAIN,www.zhihu.com))), (NOT,((DOMAIN,static.zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
-AND,((USER-AGENT,osee2*), (NOT,((DOMAIN,api.zhihu.com))), (NOT,((DOMAIN,lens.zhihu.com))), (NOT,((DOMAIN,static.zhihu.com))), (NOT,((DOMAIN,www.zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
 DOMAIN-SUFFIX,zhstatic.zhihu.com
 DOMAIN-SUFFIX,h5.qianhao.qq.com
 DOMAIN-SUFFIX,i.gtimg.cn
