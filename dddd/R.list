@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,pic1.chelaile.net.cn
 #DOMAIN,mqtt.zhihu.com
 DOMAIN-SUFFIX,xdrig.com
-URL-REGEX,https://api.zhihu.com.*launch
-URL-REGEX,https://api.zhihu.com/search/(top|tabs|preset)
 URL-REGEX,https://api.zhihu.com/answers/.*/comments/featured-comment-ad
 USER-AGENT,AVOS*
 DOMAIN-SUFFIX,zhstatic.zhihu.com
