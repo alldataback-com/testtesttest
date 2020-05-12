@@ -12,9 +12,9 @@ DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,pic1.chelaile.net.cn
 #DOMAIN,mqtt.zhihu.com
 DOMAIN-SUFFIX,xdrig.com
-URL-REGEX,https://api.zhihu.com/answers/.*/comments/featured-comment-ad
+#URL-REGEX,https://api.zhihu.com/answers/.*/comments/featured-comment-ad
 USER-AGENT,AVOS*
-DOMAIN-SUFFIX,zhstatic.zhihu.com
+#DOMAIN-SUFFIX,zhstatic.zhihu.com
 DOMAIN-SUFFIX,h5.qianhao.qq.com
 DOMAIN-SUFFIX,i.gtimg.cn
 DOMAIN-SUFFIX,pinduoduo.com
@@ -6962,7 +6962,7 @@ DOMAIN-SUFFIX,sub.powerapple.com
 DOMAIN-SUFFIX,sub.topber.com
 DOMAIN-SUFFIX,subswin.com
 DOMAIN-SUFFIX,sucodb.com
-DOMAIN-SUFFIX,sugar.zhihu.com
+#DOMAIN-SUFFIX,sugar.zhihu.com
 DOMAIN-SUFFIX,sunjianhao.com
 DOMAIN-SUFFIX,suoooi.cn
 DOMAIN-SUFFIX,super.cat898.com
@@ -8192,7 +8192,7 @@ DOMAIN-SUFFIX,zhichi08.com
 DOMAIN-SUFFIX,zhidian3g.cn
 DOMAIN-SUFFIX,zhifenjie.com
 DOMAIN-SUFFIX,zhihei.com
-DOMAIN-SUFFIX,zhihu.xmcimg.com
+#DOMAIN-SUFFIX,zhihu.xmcimg.com
 DOMAIN-SUFFIX,zhiong.net
 DOMAIN-SUFFIX,zhiyuanteam.com
 DOMAIN-SUFFIX,zhiziyun.com
