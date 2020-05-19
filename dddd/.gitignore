@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+log/*.log
+secrets.py
+config.py
+settings.py
+*.pyc
