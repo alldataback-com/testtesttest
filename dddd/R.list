@@ -7067,7 +7067,7 @@ DOMAIN-SUFFIX,t.tzcccm.com
 DOMAIN-SUFFIX,t.ujian.cc
 DOMAIN-SUFFIX,t.uvcourse.net
 DOMAIN-SUFFIX,t.youmi.net
-DOMAIN-SUFFIX,t1.58cdn.com.cn
+#DOMAIN-SUFFIX,t1.58cdn.com.cn
 DOMAIN-SUFFIX,t1.jzkapp.com
 DOMAIN-SUFFIX,t1.visualrevenue.com
 DOMAIN-SUFFIX,t1.wshufa.com
