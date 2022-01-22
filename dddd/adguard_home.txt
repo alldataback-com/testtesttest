@@ -17,3 +17,4 @@ v2ex.com##.box
 ||v2ex.com##div.box
 v2ex.com##.box
 v2ex.com.box
+||v2ex.com.box
