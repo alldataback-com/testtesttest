@@ -5,8 +5,14 @@
 !!!This list only applies to "AdGuard Home".
 ||wwads.cn^
 ||datapacket.com^
-||cdn77.com###div[class="inner"]
-||v2ex.com###div[class="inner"]
-||v2ex.com###.inner
-||v2ex.com###div.inner
-v2ex.com###.inner
+||cdn77.com###div[class="box"]
+||v2ex.com###div[class="box"]
+||v2ex.com###.box
+||v2ex.com###div.box
+v2ex.com###.box
+||datapacket.com^
+||cdn77.com###div[class="box"]
+||v2ex.com###div[class="box"]
+||v2ex.com###.box
+||v2ex.com###div.box
+v2ex.com###.box
