@@ -8,3 +8,4 @@
 ||v2ex.com^div[class="inner"]
 ||v2ex.com##.inner
 ||v2ex.com##div.inner
+v2ex.com##.inner
