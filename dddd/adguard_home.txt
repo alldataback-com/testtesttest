@@ -5,3 +5,4 @@
 !!!This list only applies to "AdGuard Home".
 ||wwads.cn^
 pctantao.com
+bcebos.com
