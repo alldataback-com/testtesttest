@@ -28,10 +28,9 @@ DOMAIN-SUFFIX,iflyad.bj.openstorage.cn
 DOMAIN-SUFFIX,cdn.baiduyun.wiki
 DOMAIN-SUFFIX,cdn.80note.com
 DOMAIN-SUFFIX,issuecdn.baidupcs.com
-URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/[a-zA-Z0-9&%./-~-]*\.mp4$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/CR60_V33_IOS_20191017.mp4
-URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/[a-zA-Z0-9&%./-~-]*\.m4a$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/KnightFrank_IOS_20191021.m4a
-URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/[a-zA-Z0-9&%./-~-]*\.mp4$,REJECT // Added for webpage: http://toolbarapi.881903.com/mobile/hktb/iphone/prerollad/CR60_V34_IOS_20191025.mp4
-DOMAIN-SUFFIX,redirect.viglink.com,🍃 Proxy // Added for webpage: http://redirect.viglink.com/?key=00338ebde414fcd446b4b4216eed4f7b&u=https%3A%2F%2Fwww.tapatalk.com%2Fstart-here.php
+URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/[a-zA-Z0-9&%./-~-]*\.mp4$,REJECT 
+URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/[a-zA-Z0-9&%./-~-]*\.m4a$,REJECT 
+URL-REGEX,^http:\/\/toolbarapi\.881903\.com\/mobile\/hktb\/iphone\/prerollad\/[a-zA-Z0-9&%./-~-]*\.mp4$,REJECT 
 #DOMAIN-SUFFIX,ssl.ptlogin2.qq.com
 DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,pic1.chelaile.net.cn
