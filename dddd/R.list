@@ -1,4 +1,22 @@
 #update reject
+DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com,REJECT-TINYGIF 
+DOMAIN-SUFFIX,g.doubleclick.net,REJECT-TINYGIF
+DOMAIN-SUFFIX,adx.sogaha.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,api.nx-perf.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,mobads.baidu.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,inmobi.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,ydstatic.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,e.kuaishou.com,REJECT-TINYGIF 
+DOMAIN-SUFFIX,api.sogaha.cn,REJECT-TINYGIF 
+DOMAIN-SUFFIX,atrace.chelaile.net.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,ctrace.sogaha.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,cdn.bcebos.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT-TINYGIF 
+DOMAIN-SUFFIX,open.e.kuaishou.com,REJECT-TINYGIF
+URL-REGEX,^[(http(s)?):\/\/(www\.)?i.v2ex.co\/]([-a-zA-Z0-9@:%_\+.~#?&//=]*).gif,REJECT-TINYGIF
+DOMAIN-SUFFIX,cdn77.com,REJECT-TINYGIF
 URL-REGEX,^(https?:\/\/)?cdn.v2ex.com/assets/sidebar/([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
 DOMAIN-SUFFIX,*.googleadservices.com
 DOMAIN-SUFFIX,c.pc.qq.com
