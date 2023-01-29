@@ -1,5 +1,6 @@
 #update reject
-URL-REGEX,^(https?:\/\/)?api.zhihu.com\/ad-style-service\/request\/([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
+URL-REGEX,^(https?:\/\/)?api.zhihu.com\/commercial_api*[^\s[",><]*,REJECT-TINYGIF
+URL-REGEX,^(https?:\/\/)?api.zhihu.com\/ad-style-service\/request([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
 URL-REGEX,^(https?:\/\/)?api.chelaile.net.cn/adpub/sdk/([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
 DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com,REJECT-TINYGIF 
