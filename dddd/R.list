@@ -1,4 +1,5 @@
 #update reject
+DOMAIN-SUFFIX,*.ad.appier.net,REJECT-TINYGIF
 DOMAIN-SUFFIX,*.adv.lihkg.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,*.wx.qlogo.cn,REJECT-TINYGIF
 REGEX,^https:\/\/https://appcloud2.zhihu.com\/v3\/([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
