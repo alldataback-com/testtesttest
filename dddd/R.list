@@ -1,5 +1,4 @@
 #update reject
-
 DOMAIN-SUFFIX,*.ad.appier.net,REJECT-TINYGIF
 DOMAIN-SUFFIX,*.adv.lihkg.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,*.wx.qlogo.cn,REJECT-TINYGIF
