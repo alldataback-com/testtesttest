@@ -1,4 +1,10 @@
 #update reject
+DOMAIN-SUFFIX,mobads.baidu.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,inmobi.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,ydstatic.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,e.kuaishou.com,REJECT-TINYGIF 
+DOMAIN-SUFFIX,api.sogaha.cn,REJECT-TINYGIF 
 DOMAIN-SUFFIX,atrace.chelaile.net.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,ctrace.sogaha.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,cdn.bcebos.com,REJECT-TINYGIF
