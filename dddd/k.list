@@ -1,5 +1,5 @@
 #update reject
-REGEX,^https:\/\/https://appcloud2.zhihu.com\/v3\/([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
+REGEX,^https:\/\/appcloud2.zhihu.com\/v3\/([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
 URL-REGEX,^https:\/\/lens.zhihu.com\/api([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
 DOMAIN-SUFFIX,*.vzuu.com,REJECT-TINYGIF
 URL-REGEX,^https:\/\/api.zhihu.com\/commercial_api([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
