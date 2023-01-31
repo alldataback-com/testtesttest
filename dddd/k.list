@@ -1,4 +1,7 @@
 #update reject
+DOMAIN-SUFFIX,open.e.kuaishou.com,REJECT-TINYGIF
+URL-REGEX,^[(http(s)?):\/\/(www\.)?i.v2ex.co\/]([-a-zA-Z0-9@:%_\+.~#?&//=]*).gif,REJECT-TINYGIF
+DOMAIN-SUFFIX,cdn77.com,REJECT-TINYGIF
 URL-REGEX,^(https?:\/\/)?cdn.v2ex.com/assets/sidebar/([-a-zA-Z0-9@:%_\+.~#?&//=]*),REJECT-TINYGIF
 DOMAIN-SUFFIX,*.googleadservices.com
 DOMAIN-SUFFIX,c.pc.qq.com
