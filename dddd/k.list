@@ -1,5 +1,4 @@
 #update reject
-
 DOMAIN-SUFFIX,*.googleadservices.com
 DOMAIN-SUFFIX,c.pc.qq.com
 DOMAIN-SUFFIX,pctantao.com
