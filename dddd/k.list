@@ -1,4 +1,9 @@
 #update reject
+DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com,REJECT-TINYGIF 
+DOMAIN-SUFFIX,g.doubleclick.net,REJECT-TINYGIF
+DOMAIN-SUFFIX,adx.sogaha.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,api.nx-perf.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,mobads.baidu.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,inmobi.cn,REJECT-TINYGIF
