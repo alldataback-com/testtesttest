@@ -1,4 +1,5 @@
 #update reject
+DOMAIN-SUFFIX,s.yimg.com
 URL-REGEX,^https?:\/\/appcloud2.zhihu.com\/v3\/([-a-zA-Z0-9@:%_\+.~#?&//=]*)
 URL-REGEX,^https?:\/\/lens.zhihu.com\/api([-a-zA-Z0-9@:%_\+.~#?&//=]*)
 DOMAIN-SUFFIX,vzuu.com
