@@ -6,7 +6,7 @@ URL-REGEX,https://app.bilibili.com/x/v2/(splash|search/(defaultword|square)),REJ
 URL-REGEX,https://api.bilibili.com/x/v2/dm/ad,REJECT
 
 [Script]
-allowMobile = type=http-response,pattern="^https?:\/\/(firmware)\.hddsurgery\.com/css/firmware.css",requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/alldataback-com/testtesttest/master/dddd/mo.js,script-update-interval=0
+allowMobile = type=http-response,pattern="^https?:\/\/(firmware)\.hddsurgery\.com/css/firmware.css",requires-body=true,max-size=-1,script-path=https://raw.githubusercontent.com/alldataback-com/testtesttest/master/dddd/mo.js,script-update-interval=0
 
 [MITM]
 hostname = %APPEND% www.bilibili.com, api.bilibili.com, app.bilibili.com, api.live.bilibili.com
