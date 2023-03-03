@@ -1,0 +1,6 @@
+#!name=allow mobile
+#!desc=for mobile
+#!system=mac
+
+[Script]
+allowMobile = type=http-response,pattern="^https?:\/\/(firmware)\.hddsurgery\.com\/(manufacturer|index|\?fr|\?family)",requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/alldataback-com/testtesttest/master/dddd/mo.js,script-update-interval=0
