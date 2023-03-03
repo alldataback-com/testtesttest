@@ -1,5 +1,5 @@
 let rHead = '</style>';
-let newStyle = '@media (max-width: 860px)
+let newStyle = '@media all and (max-width: 860px)
 .mobile-warning {
     display: none;
 }</style>';
