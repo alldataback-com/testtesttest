@@ -1,6 +1,6 @@
 #update reject
-DOMAIN-SUFFIX,weixin110.qq.com,REJECT
-DOMAIN-SUFFIX,c.pc.qq.com,REJECT
+DOMAIN-SUFFIX,weixin110.qq.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,c.pc.qq.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,ghent-gce-jp.bidswitch.net
 DOMAIN-SUFFIX,pn.ybp.yahoo.com
 DOMAIN-SUFFIX,s.yimg.com
