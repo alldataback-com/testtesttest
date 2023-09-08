@@ -1,4 +1,9 @@
 #update
+DOMAIN-SUFFIX,clubhouse.com,Clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com,Clubhouse
+DOMAIN-SUFFIX,joinclubhouse.com,Clubhouse
+DOMAIN,clubhouseprod.s3.amazonaws.com,Clubhouse
+DOMAIN,clubhouse.pubnub.com,Clubhouse
 #zhihu
 DOMAIN-SUFFIX,58cdn.com.cn,DIRECT
 IP-CIDR,118.89.204.198/32,DIRECT
