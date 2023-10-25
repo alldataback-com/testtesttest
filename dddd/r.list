@@ -1,4 +1,5 @@
 #update reject
+DOMAIN-SUFFIX,*.c.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,weixin110.qq.com,REJECT
 DOMAIN-SUFFIX,ad.appier.net,REJECT-TINYGIF
 DOMAIN-SUFFIX,adv.lihkg.com,REJECT-TINYGIF
