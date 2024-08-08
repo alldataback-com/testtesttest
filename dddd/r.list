@@ -1,4 +1,20 @@
 #update reject
+DOMAIN,ads.ak.facebook.com,REJECT
+DOMAIN,creative.ak.facebook.com,REJECT
+DOMAIN,creative.ak.fbcdn.net,REJECT
+DOMAIN,fbcdn-creative-a.akamaihd.net,REJECT
+DOMAIN-SUFFIX,staticxx.facebook.com,REJECT
+DOMAIN,cdn.syndication.twimg.com,REJECT
+DOMAIN,syndication-o.twimg.com,REJECT
+DOMAIN,syndication.twimg.com,REJECT
+DOMAIN-SUFFIX,ads.twitter.com,REJECT
+DOMAIN-SUFFIX,ads-twitter.com,REJECT
+DOMAIN-SUFFIX,analytics.twitter.com,REJECT
+DOMAIN-SUFFIX,p.twitter.com,REJECT
+DOMAIN-SUFFIX,scribe.twitter.com,REJECT
+DOMAIN-SUFFIX,syndication.twitter.com,REJECT
+DOMAIN-SUFFIX,syndication-o.twitter.com,REJECT
+DOMAIN-SUFFIX,urls.api.twitter.com,REJECT
 DOMAIN-SUFFIX,*.c.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,weixin110.qq.com,REJECT
 DOMAIN-SUFFIX,ad.appier.net,REJECT-TINYGIF
