@@ -1,4 +1,5 @@
 #update
+DOMAIN-SUFFIX,vscode-cdn.net,DIRECT
 DOMAIN-SUFFIX,vscode.dev,DIRECT
 DOMAIN,ap-oversea-tls.agora.io,DIRECT
 IP-CIDR,203.208.204.93/32,DIRECT
