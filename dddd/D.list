@@ -1,4 +1,5 @@
 #update
+DOMAIN-SUFFIX,auth.vscode.dev,DIRECT
 DOMAIN-SUFFIX,main.vscode-cdn.net,DIRECT
 DOMAIN-SUFFIX,*.vscode-cdn.net,DIRECT
 DOMAIN-SUFFIX,vscode.dev,DIRECT
